@@ -18,9 +18,9 @@ lon = longitude
 '''
 
 ### Regional gridded output from a Regional Climate Model (RCM)
-hi_t2 = xr.open_dataset('data/hifid_t2m_monthly.nc').T2
-hi_lat_grid = hi_t2.lat.values
-hi_lon_grid = hi_t2.lon.values 
+hi_t2   = xr.open_dataset('data/hifid_t2m_monthly.nc').t2m
+hi_lats = hi_t2.lat.values
+hi_lons = hi_t2.lon.values 
 
 ### Global gridded reanalysis (data assimilated) used to update/force the 
 ### lateral boundaries of the RCM
