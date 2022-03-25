@@ -7,7 +7,7 @@ To provide probabilistic predictions of temperature on the high-fidelity domain 
 
 ## Data
 
-You can find the data [here](https://github.com/scotthosking/mf_modelling/data)
+You can find the data [here](https://github.com/scotthosking/mf_modelling/tree/main/data)
 
 Other potentially useful datasets
 * [Climate Data Guide](https://climatedataguide.ucar.edu/climate-data)
