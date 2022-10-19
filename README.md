@@ -12,7 +12,7 @@ You can find the data [here](https://github.com/scotthosking/mf_modelling/tree/m
 Other potentially useful datasets
 * [Climate Data Guide](https://climatedataguide.ucar.edu/climate-data)
   * e.g., [Nino 3.4](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni)
-* [Weather stations](https://towardsdatascience.com/acquire-and-analyze-weather-and-climate-data-with-python-and-tableau-4878e8759152) - is this global?
+* [Weather stations](https://github.com/scotthosking/get-station-data)
 
 ## Schematic of data challege
 ![](images/mf_setup.png)
