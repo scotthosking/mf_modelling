@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1taFsmIeD_DRUaURw37galciaRwp6sbIe?usp=sharing)
 
 ## Data Challenge
-To provide probabilistic predictions of temperature on the high-fidelity domain (Panel b) from low-fidelity wind and temperature data (Panel a). Elevation data for the high-fidelity domain is also avaiable 
+To provide probabilistic predictions of temperature on the high-fidelity domain (Panel b) from low-fidelity wind and temperature data (Panel a). Elevation data for the high-fidelity domain is also avaiable to help learn the temperature change with height.
 
 ## Data
 
